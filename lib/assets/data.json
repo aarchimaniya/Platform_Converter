@@ -1,0 +1,117 @@
+{
+  "characters": [
+    {
+      "name": "Harry Potter",
+      "house": "Gryffindor",
+      "patronus": "Stag",
+      "actor": "Daniel Radcliffe",
+      "images": "lib/assets/images/category/book1.jpg",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Hermione Granger",
+      "house": "Gryffindor",
+      "patronus": "Otter",
+      "actor": "Emma Watson",
+      "images": "",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Ron Weasley",
+      "house": "Gryffindor",
+      "patronus": "Jack Russell Terrier",
+      "actor": "Rupert Grint",
+      "images": "",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Albus Dumbledore",
+      "house": "Gryffindor",
+      "patronus": "Phoenix",
+      "actor": "Richard Harris, Michael Gambon",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Severus Snape",
+      "house": "Slytherin",
+      "patronus": "Doe",
+      "actor": "Alan Rickman",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Draco Malfoy",
+      "house": "Slytherin",
+      "patronus": "None",
+      "actor": "Tom Felton",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Sirius Black",
+      "house": "Gryffindor",
+      "patronus": "Large Dog",
+      "actor": "Gary Oldman",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Rubeus Hagrid",
+      "house": "Gryffindor",
+      "patronus": "None",
+      "actor": "Robbie Coltrane",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Minerva McGonagall",
+      "house": "Gryffindor",
+      "patronus": "Cat",
+      "actor": "Maggie Smith",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Luna Lovegood",
+      "house": "Ravenclaw",
+      "patronus": "Hare",
+      "actor": "Evanna Lynch",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    },
+    {
+      "name": "Neville Longbottom",
+      "house": "Gryffindor",
+      "patronus": "Non-Corporeal",
+      "actor": "Matthew Lewis",
+      "summaries": [
+        "Hermione Jean Granger is one of Harry Potter's best friends.",
+        "She is known for her intelligence and resourcefulness."
+      ]
+    }
+  ]
+}
