@@ -1,16 +1,29 @@
-# platformchange_app
+# Platform Converter App
 
-A new Flutter project.
+## Description
+The Platform Converter App is a Flutter application that showcases the use of both Cupertino (iOS) and Material (Android) design. The app allows users to toggle between the two styles using a button, and includes a cart feature for managing selected books. 
 
-## Getting Started
+## Features
+- Toggle between Cupertino and Material design.
+- Backward navigation with a home icon.
+- Book detail pages with an option to add books to a cart.
+- A cart page to view selected books.
 
-This project is a starting point for a Flutter application.
+## Usage
+- Use the toggle button on the home screen to switch between Cupertino and Material design.
+- Navigate to the book detail page and click on the cart icon to add a book to the cart.
+- Use the home icon for backward navigation.
+- View selected books in the cart page.
 
-A few resources to get you started if this is your first Flutter project:
+## Code Structure
+- `lib/`
+  - `main.dart`: The entry point of the application.
+  - `home_page.dart`: The home page with a toggle button.
+  - `cupertino_page.dart`: The Cupertino styled page.
+  - `material_page.dart`: The Material styled page.
+  - `book_detail_page.dart`: The book detail page.
+  - `cart_page.dart`: The cart page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
