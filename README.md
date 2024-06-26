@@ -35,11 +35,11 @@ No Copying: Do not copy code or any other content from your classmates or any ot
 
 <img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/c707df0f-add9-4172-a8f4-3a8ac2a570ea" width="250">
 <img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/c0ac1ece-4a3a-4a5a-8d27-5dd50bc43d54" width="250">
-<img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/ec863699-11a8-407e-aef2-520f05a073bc" width="250">
-<img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/a0c943c6-3d9a-4588-807b-ef0ac559afff" width="250">
+<img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/b762a483-43b4-42f8-83c5-ccda19209963" width="250">
+<img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/f70f6ff0-efa4-495f-abdc-c2638de18f6e" width="250">
 <img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/adaabea6-87d8-465c-b943-c9582d3d0f03" width="250">
 <img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/14c2a172-2d0b-4971-b66d-ec4422e80965" width="250">
-<img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/14c2a172-2d0b-4971-b66d-ec4422e80965" width="250">
+<img src="https://github.com/aarchimaniya/Platform_Converter/assets/128701780/b01e3bae-da00-4058-8b76-6115ae682c6d" width="250">
 
 
 
